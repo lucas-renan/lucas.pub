@@ -1,0 +1,49 @@
+# Site settings
+name: Lucas Renan
+description: "Software Developer"
+url: "https://lucas.pub"
+
+
+# Delete the lines you don't need
+# about 5 elements are recomended
+github_username:  lucas-renan
+facebook_username: 100029571155497
+vk_username: lucas_renan
+twitter_username: renan_url
+linkedin_username: renanmorais
+#vine_username:  your_vine_username_goes_here
+instagram_username: lvcasrenan
+#flickr_username: your_flickr_username_goes_here
+steam_username: 76561198063555678
+#soundcloud_username:  your_soundcloud_username_goes_here
+#stack_of_username: your_stack_overflow_account_id_number_goes_here
+reddit_username: lucasrenan
+#medium_username:  your_medium_username_goes_here
+#tumblr_username: your_tumblr_username_goes_here
+#weibo_username: your_weibo_username_goes_here
+#lastfm_username: your_lastfm_username_goes_here
+#blog_url: "/blog"
+email: luccas.rennan@gmail.com
+#public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
+
+
+avatar: yes
+avatar_img_path: "imgs/praia.jpg"
+# You can link to your GitHub image. That way it will get updated
+# automatically whenever you change your GitHub profile picture
+#avatar_img_path: "https://avatars2.githubusercontent.com/u/17301305"
+
+
+front_img: yes
+front_img_path: "imgs/background.jpg"
+#front_img_path: "https://external.url/image.jpg"
+
+
+favicon_img: yes
+favicon_img_path: "imgs/praia.ico"
+#favicon_img_path: "https://external.url/favicon.ico"
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty

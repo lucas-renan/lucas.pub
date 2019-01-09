@@ -1,5 +1,7 @@
 site simples criado com base no tema front cover com jekyll
 
+![alt text](https://raw.githubusercontent.com/lucas-renan/lucas.pub/master/print_lucas.pub.jpg)
+
 # front cover jekyll theme
 
 ## Why choose this jekyll theme for your front page?
